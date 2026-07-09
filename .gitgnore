@@ -1,0 +1,13 @@
+# modelos YOLO (muito grandes para o git)
+*.pt
+
+# ambiente virtual
+__pycache__/
+*.pyc
+.env
+
+# arquivos do sistema Mac
+.DS_Store
+
+# arquivos temporários
+*.log
