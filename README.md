@@ -10,7 +10,8 @@ Projeto desenvolvido como parte do portfólio em Ciência de Dados e Visão Comp
 
 📸 Sistema em funcionamento
 
-Mostrar Imagem
+<img width="1276" height="743" alt="Captura de Tela 2026-07-02 às 15 41 43" src="https://github.com/user-attachments/assets/09dca8f3-9556-416b-b073-5c317f1eec94" />
+
 
 Sistema rodando em ambiente real: 4 pessoas detectadas simultaneamente com IDs únicos, cronômetros individuais e painel de métricas ao vivo.
 
